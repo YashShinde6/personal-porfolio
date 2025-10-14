@@ -1,0 +1,10 @@
+# Profile Image Placeholder
+
+To add your profile image:
+
+1. Replace this file with your actual profile image
+2. Name it exactly: `profile-image.jpg`
+3. Recommended size: 400x400 pixels (square)
+4. Supported formats: JPG, PNG, WebP
+
+The image will automatically appear in the hero section avatar.
